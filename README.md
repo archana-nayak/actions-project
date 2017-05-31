@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Actions Project
+## Basic Actions Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Basic Project that works with JQueries*
 
 **Java 8**
 
